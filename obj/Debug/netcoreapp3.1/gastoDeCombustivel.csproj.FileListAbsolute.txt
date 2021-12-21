@@ -1,0 +1,13 @@
+C:\Users\AMANDACV\BaseCSharp\gastoDeCombustivel\obj\Debug\netcoreapp3.1\gastoDeCombustivel.csprojAssemblyReference.cache
+C:\Users\AMANDACV\BaseCSharp\gastoDeCombustivel\obj\Debug\netcoreapp3.1\gastoDeCombustivel.AssemblyInfoInputs.cache
+C:\Users\AMANDACV\BaseCSharp\gastoDeCombustivel\obj\Debug\netcoreapp3.1\gastoDeCombustivel.AssemblyInfo.cs
+C:\Users\AMANDACV\BaseCSharp\gastoDeCombustivel\obj\Debug\netcoreapp3.1\gastoDeCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\AMANDACV\BaseCSharp\gastoDeCombustivel\bin\Debug\netcoreapp3.1\gastoDeCombustivel.exe
+C:\Users\AMANDACV\BaseCSharp\gastoDeCombustivel\bin\Debug\netcoreapp3.1\gastoDeCombustivel.deps.json
+C:\Users\AMANDACV\BaseCSharp\gastoDeCombustivel\bin\Debug\netcoreapp3.1\gastoDeCombustivel.runtimeconfig.json
+C:\Users\AMANDACV\BaseCSharp\gastoDeCombustivel\bin\Debug\netcoreapp3.1\gastoDeCombustivel.runtimeconfig.dev.json
+C:\Users\AMANDACV\BaseCSharp\gastoDeCombustivel\bin\Debug\netcoreapp3.1\gastoDeCombustivel.dll
+C:\Users\AMANDACV\BaseCSharp\gastoDeCombustivel\bin\Debug\netcoreapp3.1\gastoDeCombustivel.pdb
+C:\Users\AMANDACV\BaseCSharp\gastoDeCombustivel\obj\Debug\netcoreapp3.1\gastoDeCombustivel.dll
+C:\Users\AMANDACV\BaseCSharp\gastoDeCombustivel\obj\Debug\netcoreapp3.1\gastoDeCombustivel.pdb
+C:\Users\AMANDACV\BaseCSharp\gastoDeCombustivel\obj\Debug\netcoreapp3.1\gastoDeCombustivel.genruntimeconfig.cache
